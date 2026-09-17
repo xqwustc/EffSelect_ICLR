@@ -1,8 +1,8 @@
 # EffSelect: Efficient Feature Value Selection for Deep Recommender Systems with Mini-Batch Training 🚀
 
-![KDD'26](https://img.shields.io/badge/KDD'26-Submission-blue)
+![ICLR'27](https://img.shields.io/badge/ICLR'27-Submission-blue)
 
-This repository contains the official implementation of the KDD'26 submission:
+This repository contains the official implementation of the ICLR'27 submission:
 
 **EffSelect: Efficient Feature Value Selection for Deep Recommender Systems with Mini-Batch Training**
 
